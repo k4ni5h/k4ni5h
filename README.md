@@ -20,7 +20,7 @@ Learning: Docker, AWS {EBS, ECS, SQS, SNS, SES, Lambda, Cloudwatch, Cognito, S3,
 Hobbies: Sleeping
 Commits: 2874 (22/03/2022)
 Repositories: 87
-Instagram: <a href="https://www.instagram.com/k4ni5h/" target="_blank">k4ni5h</a>
+Instagram: k4ni5h
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
