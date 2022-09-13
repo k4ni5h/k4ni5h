@@ -14,11 +14,11 @@ Frameworks: Django, React, Redux, Flutter, Express, Flask
 Languages: Python, JAVA, JavaScript, C, C++,
            HTML, CSS, SQL, PHP
 Learning: Docker, AWS {EBS, ECS, SQS, SNS, SES, Lambda, Cloudwatch, Cognito, S3, EventBridge},
-          nginx, Heroku, PostgreSQL, Redis, CloudFlare,
+          nginx, gunicorn, daphne, Heroku, PostgreSQL, Redis, CloudFlare,
           Appium, ADB, git, keras, fasttext
 Hobbies: Sleeping
-Commits: 2874 (22/03/2022)
-Repositories: 87
+Commits: 3635 (13/09/2022)
+Repositories: 90
 Instagram: k4ni5h
 ```
 <p align="left">
