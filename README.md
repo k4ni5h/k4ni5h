@@ -9,7 +9,6 @@ k4ni5h@github
 -------------------------
 OS: Arch Linux x86_64 + macOS Monterey
 Shell: zsh 5.8
-Pronouns: He/Him
 Location: Gurgugram, IN
 Frameworks: Django, React, Redux, Flutter, Express, Flask
 Languages: Python, JAVA, JavaScript, C, C++,
