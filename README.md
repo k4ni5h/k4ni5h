@@ -23,7 +23,7 @@ Instagram: k4ni5h
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+  <img alt="#474342" src="https://htmlcolors.com/color-image/474342.png" width="25" height="20" /><img alt="#fbedf6" src="https://htmlcolors.com/color-image/fbedf6.png" width="25" height="20" /><img alt="#c9594d" src="https://htmlcolors.com/color-image/c9594d.png" width="25" height="20" /><img alt="#f8b9b2" src="https://htmlcolors.com/color-image/f8b9b2.png" width="25" height="20" /><img alt="#ae9c9d" src="https://htmlcolors.com/color-image/ae9c9d.png" width="25" height="20" />
 </p>
 
 For more info about me visit <a href="https://k4ni5h.github.io/" target="_blank">https://k4ni5h.github.io/</a>
