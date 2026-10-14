@@ -151,14 +151,6 @@ while alive:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k4ni5h&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&row=2&column=4"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -233,10 +225,6 @@ jobs:
   <a href="mailto:k4ni5h23@gmail.com"><img src="https://img.shields.io/badge/Email-k4ni5h23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://k4ni5h.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <a href="https://linkedin.com/in/k4ni5h"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=k4ni5h&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count"/>
 </p>
 
 <p align="center">
