@@ -154,7 +154,10 @@ while alive:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/k4ni5h/k4ni5h/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/k4ni5h/k4ni5h/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
 </p>
 
 > ⚙️ *Auto-generated via GitHub Actions — because even my README should automate itself.*
