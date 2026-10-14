@@ -193,7 +193,7 @@ jobs:
 
 ## 😂 Random Dev Meme
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://img.randme.me" alt="Random Meme" style="max-width: 100%; height: auto; display: block;">
 
 ---
 
